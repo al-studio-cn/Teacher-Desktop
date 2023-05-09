@@ -6,11 +6,11 @@
 
 <center><a href="https://al-studio.cn/">AL-Studio</a> | <a href="https://alwolf.cn/">一只屑阿狼</a></center>
 
-#### 介绍
+### 介绍
 
 教师桌面，为电子白板制作的小程序
 
-#### 制作原因
+### 制作原因
 
 起因是因为有位好友，他在学校里是管设备的，原话：
 
@@ -39,7 +39,7 @@
 **用途2:防止我们班的小捣蛋自行打开娱乐**  
 
 
-#### 软件介绍
+### 软件介绍
 
 软件使用C#制作的一个小程序，本人也不是什么大佬，并不会做磁贴化与代码优化，有问题就请见谅了
 
@@ -50,34 +50,34 @@ UI方面使用SunnyUI
 网络模式使用Bing图片，这里感谢大佬 [杨尚臻](https://www.yangshangzhen.com/)开源的[必应壁纸API](https://github.com/shangzhenyang/bing-wallpaper)
 
 
-#### 兼容性
+### 兼容性
 只要是支持[NET.472]的系统，都可以兼容
 
 
-#### 使用说明
+### 使用说明
 
 首次启动，会弹出安装界面和管理员密码设置的界面，点击完成后
 
 再次启动，就会进入程序的主页面了
 
-#### 如何卸载
+### 如何卸载
 
 删除注册表：
 `计算机\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\TeacherDesktop`
 
 然后直接把软件所在的文件夹 连同文件夹一起扔垃圾桶，清空即可！
 
-#### 开源引用
+### 开源引用
 
 [SunnyUI](https://gitee.com/yhuse/SunnyUI)：https://gitee.com/yhuse/SunnyUI  
 
 [必应壁纸API](https://github.com/shangzhenyang/bing-wallpaper)：https://github.com/shangzhenyang/bing-wallpaper  
 
-#### 图标开源
+### 图标来源
 
 [即时设计](https://js.design/)：https://js.design/
 
-#### 仓库
+### 仓库
 [Gitee](https://gitee.com/al-studio/Teacher-Desktop)  
 
 [Github](https://github.com/al-studio-cn/Teacher-Desktop)
