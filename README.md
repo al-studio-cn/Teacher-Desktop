@@ -77,7 +77,7 @@ UI方面使用SunnyUI
 
 [即时设计](https://js.design/)：https://js.design/
 
-[IconFont](https://iconfont.cn/)
+[IconFont](https://iconfont.cn/)：https://iconfont.cn/
 
 ### 仓库
 [Gitee](https://gitee.com/al-studio/Teacher-Desktop)  
