@@ -388,7 +388,13 @@ namespace TDesktop
 
         private void Close_MainFrom_Button_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            AdminVerify AdminVerify = new AdminVerify();
+            DialogResult result = AdminVerify.ShowDialog();
+
+            if (result == DialogResult.OK)
+            {
+                Application.Exit();
+            }
         }
 
         //打开设置&刷新页面
